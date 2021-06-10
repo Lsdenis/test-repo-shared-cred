@@ -4,4 +4,10 @@ changes 1
 changes 2
 как попасть к вам
 первыйблин
+<<<<<<< HEAD
 блин 2
+=======
+blin ot kirilla
+some blin)
+Блин от Олега!
+>>>>>>> d48a8f6bb5ce2681653d40210da3c049f9a419b6
