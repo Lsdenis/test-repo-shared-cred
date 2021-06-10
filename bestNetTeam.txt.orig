@@ -4,6 +4,7 @@ changes 1
 changes 2
 как попасть к вам
 <<<<<<< HEAD
+<<<<<<< HEAD
 Next BLin
 =======
 первыйблин
@@ -11,7 +12,21 @@ Next BLin
 блин 2
 =======
 >>>>>>> c3779d57d0d8a7a4394c80f63ef0f5494ec85ac8
+=======
+первыйблин
+<<<<<<< HEAD
+blin ot kirilla
+Второйблин
+=======
+<<<<<<< HEAD
+блин 2
+=======
+>>>>>>> 3d4ee3abef566c561684a59ce5a19095c787a316
 blin ot kirilla
 some blin)
 Блин от Олега!
 >>>>>>> d48a8f6bb5ce2681653d40210da3c049f9a419b6
+<<<<<<< HEAD
+=======
+>>>>>>> c3779d57d0d8a7a4394c80f63ef0f5494ec85ac8
+>>>>>>> 3d4ee3abef566c561684a59ce5a19095c787a316
