@@ -2,3 +2,4 @@
 есть
 СИЛА
 For Merge
+some info
